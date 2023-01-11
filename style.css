@@ -2,7 +2,6 @@
 
 :root{
     --main-color: #fbf3fe;
-    /* --main-color: #cab2b2; */
     --title-color: #fa991c;
     --text-color: #0b6179;
 }
@@ -33,7 +32,6 @@
     .bloc{
         margin: 10px 0px;
     }
-    .section{}
     .img2{
         width: 22rem;
         height: 21rem;
@@ -41,11 +39,9 @@
     }
 
 }
-@media(min-width:991px){
-    .order{
-        
-    }
-}
+/* @media(min-width:991px){
+    .
+} */
 @media(min-width:1199px){}
 .content{
     padding: 50px 0px;
